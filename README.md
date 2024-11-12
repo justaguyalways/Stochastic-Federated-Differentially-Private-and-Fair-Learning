@@ -1,4 +1,4 @@
-# Federated_Private_and_Fair_Learning
+# Stochastic-Federated-Differentially-Private-and-Fair-Learning
   
 Code for our paper titled "A Stochastic Optimization Framework for Private and Fair Learning From Decentralized Data"
 
